@@ -6,7 +6,7 @@
     "example_sentence": "Die Party ist jetzt ab 19 Uhr geplant.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -18,7 +18,7 @@
     "example_sentence": "Du musst an der Ampel rechts abbiegen.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -30,7 +30,7 @@
     "example_sentence": "Unser Urlaub in Afrika war ein richtiges Abenteuer.",
     "opposite": "Langeweile",
     "article": "das",
-    "level": "B2",
+    "level": "B1.1",
     "plural": "Abenteuer",
     "noun_form": "Abenteuer",
     "verb_form": null
@@ -42,7 +42,7 @@
     "example_sentence": "Ich möchte kommen, aber ich habe keine Zeit.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A1.2",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -54,7 +54,7 @@
     "example_sentence": "Der Zug wird in fünf Minuten abfahren.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": "Abfahrt",
     "verb_form": "abfahren"
@@ -66,7 +66,7 @@
     "example_sentence": "Die Abfahrt des Busses erfolgt um 8 Uhr morgens.",
     "opposite": "Ankunft",
     "article": "die",
-    "level": "B2",
+    "level": "A2.2",
     "plural": "Abfahrten",
     "noun_form": null,
     "verb_form": "abfahren"
@@ -78,7 +78,7 @@
     "example_sentence": "Bitte wirf den Abfall in die Mülltonne.",
     "opposite": null,
     "article": "der",
-    "level": "B2",
+    "level": "B1.1",
     "plural": "Abfälle",
     "noun_form": null,
     "verb_form": null
@@ -90,7 +90,7 @@
     "example_sentence": "Die Abgase der Autos verschmutzen die Luft in der Stadt.",
     "opposite": null,
     "article": "das",
-    "level": "B2",
+    "level": "B1.2",
     "plural": "Abgase",
     "noun_form": null,
     "verb_form": null
@@ -102,9 +102,9 @@
     "example_sentence": "Bitte geben Sie die Hausarbeit bis Freitag ab.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
-    "noun_form": null,
+    "noun_form": "Abgabe",
     "verb_form": "abgeben"
   },
   {
@@ -114,7 +114,7 @@
     "example_sentence": "Der Erfolg hängt von deiner Vorbereitung ab.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
     "noun_form": null,
     "verb_form": "abhängen"
@@ -126,7 +126,7 @@
     "example_sentence": "Das kleine Kind ist noch völlig von seinen Eltern abhängig.",
     "opposite": "unabhängig",
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -136,11 +136,11 @@
     "explanation_de": "etwas (z.B. Deckel, Telefonhörer) nach oben nehmen; auch: mit einem Flugzeug starten",
     "translation_en": "to lift (up)",
     "example_sentence": "Das Flugzeug wird gleich abheben.",
-    "opposite": null,
+    "opposite": "landen",
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
-    "noun_form": null,
+    "noun_form": "Abhebung",
     "verb_form": "abheben"
   },
   {
@@ -150,9 +150,9 @@
     "example_sentence": "Kannst du mich um 8 Uhr vom Bahnhof abholen?",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
-    "noun_form": null,
+    "noun_form": "Abholung",
     "verb_form": "abholen"
   },
   {
@@ -162,9 +162,9 @@
     "example_sentence": "Er hat die Lösung einfach vom Tischnachbarn abgeschrieben.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
-    "noun_form": null,
+    "noun_form": "Abschrift",
     "verb_form": "abschreiben"
   },
   {
@@ -174,7 +174,7 @@
     "example_sentence": "Nach dem Abitur möchte sie an der Universität studieren.",
     "opposite": null,
     "article": "das",
-    "level": "B2",
+    "level": "B2.2",
     "plural": "Abiture",
     "noun_form": null,
     "verb_form": null
@@ -184,11 +184,11 @@
     "explanation_de": "nicht annehmen; sich gegen etwas entscheiden",
     "translation_en": "to refuse",
     "example_sentence": "Sie hat das Jobangebot abgelehnt.",
-    "opposite": null,
+    "opposite": "annehmen",
     "article": null,
-    "level": "B2",
+    "level": "B1.1",
     "plural": null,
-    "noun_form": null,
+    "noun_form": "Ablehnung",
     "verb_form": "ablehnen"
   },
   {
@@ -198,9 +198,9 @@
     "example_sentence": "Wir haben abgemacht, uns morgen zu treffen.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
-    "noun_form": null,
+    "noun_form": "Abmachung",
     "verb_form": "abmachen"
   },
   {
@@ -208,11 +208,11 @@
     "explanation_de": "1. etwas entfernen (z.B. Deckel) 2. an Gewicht verlieren",
     "translation_en": "to take off, remove, take away, lose weight",
     "example_sentence": "Ich habe durch Sport fünf Kilo abgenommen.",
-    "opposite": null,
+    "opposite": "zunehmen",
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
-    "noun_form": null,
+    "noun_form": "Abnahme",
     "verb_form": "abnehmen"
   },
   {
@@ -220,9 +220,9 @@
     "explanation_de": "etwas (z.B. Zeitschrift, Kanal) regelmäßig beziehen oder folgen",
     "translation_en": "to subscribe",
     "example_sentence": "Er abonniert seit Jahren diese Zeitung.",
-    "opposite": null,
+    "opposite": "abbestellen",
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": "Abonnement",
     "verb_form": "abonnieren"
@@ -234,7 +234,7 @@
     "example_sentence": "Das Abonnement für die Zeitschrift erneuert sich jährlich automatisch.",
     "opposite": null,
     "article": "das",
-    "level": "B2",
+    "level": "A2.2",
     "plural": "Abonnements",
     "noun_form": null,
     "verb_form": "abonnieren"
@@ -244,11 +244,11 @@
     "explanation_de": "eine geplante Veranstaltung oder Teilnahme nicht stattfinden lassen; abbestellen",
     "translation_en": "to cancel",
     "example_sentence": "Wegen Krankheit musste sie das Treffen absagen.",
-    "opposite": null,
+    "opposite": "zusagen",
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
-    "noun_form": null,
+    "noun_form": "Absage",
     "verb_form": "absagen"
   },
   {
@@ -256,12 +256,12 @@
     "explanation_de": "Das Ende oder Resultat einer Ausbildung oder eines Prozesses",
     "translation_en": "school graduation or result",
     "example_sentence": "Nach dem Abschluss ihrer Ausbildung sucht sie eine Stelle.",
-    "opposite": null,
+    "opposite": "Anfang",
     "article": "der",
-    "level": "B2",
+    "level": "B1.2",
     "plural": "Abschlüsse",
     "noun_form": null,
-    "verb_form": null
+    "verb_form": "abschließen"
   },
   {
     "word": "abschnitt",
@@ -270,7 +270,7 @@
     "example_sentence": "Lies bitte den letzten Abschnitt im Buch noch einmal.",
     "opposite": null,
     "article": "der",
-    "level": "B2",
+    "level": "B1.2",
     "plural": "Abschnitte",
     "noun_form": null,
     "verb_form": null
@@ -280,21 +280,21 @@
     "explanation_de": "Die Person, die einen Brief oder ein Paket abgeschickt hat",
     "translation_en": "sender",
     "example_sentence": "Auf dem Paket steht der Name des Absenders.",
-    "opposite": null,
+    "opposite": "Empfänger",
     "article": "der",
-    "level": "B2",
+    "level": "B1.1",
     "plural": "Absender",
     "noun_form": null,
-    "verb_form": null
+    "verb_form": "absenden"
   },
   {
     "word": "absolut",
     "explanation_de": "völlig; uneingeschränkt; in höchstem Maße",
     "translation_en": "absolute",
     "example_sentence": "Das ist absolut richtig, da gibt es keinen Zweifel.",
-    "opposite": null,
+    "opposite": "relativ",
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -306,7 +306,7 @@
     "example_sentence": "Wir müssen über den Vorschlag abstimmen.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
     "noun_form": "Abstimmung",
     "verb_form": "abstimmen"
@@ -318,7 +318,7 @@
     "example_sentence": "Sie arbeitet in der Marketing-Abteilung des Unternehmens.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "A2.2",
     "plural": "Abteilungen",
     "noun_form": null,
     "verb_form": null
@@ -330,7 +330,7 @@
     "example_sentence": "Von hier führt der Weg abwärts ins Tal.",
     "opposite": "aufwärts",
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -342,7 +342,7 @@
     "example_sentence": "Nach dem Essen müssen wir das Geschirr abwaschen.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": "Abwasch",
     "verb_form": "abwaschen"
@@ -390,7 +390,7 @@
     "example_sentence": "Hast du seine neue Adresse?",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "A1.2",
     "plural": "Adressen",
     "noun_form": null,
     "verb_form": null
@@ -400,9 +400,9 @@
     "explanation_de": "fast gleich; mit nur geringen Unterschieden",
     "translation_en": "similar",
     "example_sentence": "Sie sehen sich ähnlich wie Geschwister.",
-    "opposite": "anders",
+    "opposite": "verschieden",
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -472,11 +472,11 @@
     "explanation_de": "etwas annehmen oder gelten lassen; mit etwas einverstanden sein",
     "translation_en": "to accept",
     "example_sentence": "Er konnte die Niederlage nicht akzeptieren.",
-    "opposite": null,
+    "opposite": "ablehnen",
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
-    "noun_form": null,
+    "noun_form": "Akzeptanz",
     "verb_form": "akzeptieren"
   },
   {
@@ -486,7 +486,7 @@
     "example_sentence": "Bei Feuer schlägt der Rauchmelder Alarm.",
     "opposite": null,
     "article": "der",
-    "level": "B2",
+    "level": "B1.2",
     "plural": "Alarme",
     "noun_form": null,
     "verb_form": null
@@ -546,7 +546,7 @@
     "example_sentence": "Es herrscht allgemein eine positive Stimmung im Team.",
     "opposite": "speziell",
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -558,7 +558,7 @@
     "example_sentence": "Im Alltag hat sie wenig Zeit für Hobbys.",
     "opposite": null,
     "article": "der",
-    "level": "B2",
+    "level": "A2.2",
     "plural": "Alltage",
     "noun_form": null,
     "verb_form": null
@@ -570,7 +570,7 @@
     "example_sentence": "Kinder lernen in der Schule das Alphabet.",
     "opposite": null,
     "article": "das",
-    "level": "B2",
+    "level": "A1.2",
     "plural": "Alphabete",
     "noun_form": null,
     "verb_form": null
@@ -582,7 +582,7 @@
     "example_sentence": "Als ich ein Kind war, bin ich viel auf Bäume geklettert.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -594,7 +594,7 @@
     "example_sentence": "Es regnet, also bleiben wir zu Hause.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -606,7 +606,7 @@
     "example_sentence": "Mein Opa ist schon sehr alt.",
     "opposite": "jung",
     "article": null,
-    "level": "B2",
+    "level": "A1.1",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -618,7 +618,7 @@
     "example_sentence": "Im Alter wird man oft ruhiger.",
     "opposite": null,
     "article": "das",
-    "level": "B2",
+    "level": "A2.2",
     "plural": "Alter",
     "noun_form": null,
     "verb_form": null
@@ -630,7 +630,7 @@
     "example_sentence": "Seine Großmutter lebt in einem Altenheim.",
     "opposite": null,
     "article": "das",
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -642,7 +642,7 @@
     "example_sentence": "Wir müssen eine alternative Lösung finden.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -654,7 +654,7 @@
     "example_sentence": "Wir haben keine Alternative, wir müssen es so machen.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "B1.2",
     "plural": "Alternativen",
     "noun_form": null,
     "verb_form": null
@@ -666,7 +666,7 @@
     "example_sentence": "Die Ampel zeigt rot, also müssen wir warten.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "A1.2",
     "plural": "Ampeln",
     "noun_form": null,
     "verb_form": null
@@ -678,7 +678,7 @@
     "example_sentence": "Sie hat ein hohes Amt in der Regierung.",
     "opposite": null,
     "article": "das",
-    "level": "B2",
+    "level": "B1.1",
     "plural": "Ämter",
     "noun_form": null,
     "verb_form": null
@@ -690,7 +690,7 @@
     "example_sentence": "Auf der Party haben wir uns sehr amüsiert.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "B1.1",
     "plural": null,
     "noun_form": null,
     "verb_form": "amüsieren"
@@ -702,7 +702,7 @@
     "example_sentence": "Das Bild hängt an der Wand.",
     "opposite": "aus",
     "article": null,
-    "level": "B2",
+    "level": "A1.2",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -714,7 +714,7 @@
     "example_sentence": "Wir müssen die Daten sorgfältig analysieren.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "B2.1",
     "plural": null,
     "noun_form": "Analyse",
     "verb_form": "analysieren"
@@ -726,7 +726,7 @@
     "example_sentence": "Er hat ihr seine Hilfe angeboten.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
     "noun_form": "Angebot",
     "verb_form": "anbieten"
@@ -784,9 +784,9 @@
     "explanation_de": "etwas anders machen; verändern",
     "translation_en": "to change",
     "example_sentence": "Sie hat ihre Meinung geändert.",
-    "opposite": null,
+    "opposite": "beibehalten",
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": "Änderung",
     "verb_form": "ändern"
@@ -820,9 +820,9 @@
     "explanation_de": "etwas offiziell bestätigen oder wertschätzen; respektieren",
     "translation_en": "to recognize",
     "example_sentence": "Seine Leistungen wurden von allen anerkannt.",
-    "opposite": null,
+    "opposite": "missachten",
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
     "noun_form": "Anerkennung",
     "verb_form": "anerkennen"
@@ -834,7 +834,7 @@
     "example_sentence": "Wir fangen jetzt mit dem Unterricht an.",
     "opposite": "aufhören",
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": "Anfang",
     "verb_form": "anfangen"
@@ -846,7 +846,7 @@
     "example_sentence": "Der Anfang des Filmes ist sehr spannend.",
     "opposite": "Ende",
     "article": "der",
-    "level": "B2",
+    "level": "A2.2",
     "plural": "Anfänge",
     "noun_form": null,
     "verb_form": null
@@ -868,9 +868,9 @@
     "explanation_de": "1. etwas mitteilen, nennen 2. prahlen, angeben im Sinne von prahlen",
     "translation_en": "to boast",
     "example_sentence": "Bitte geben Sie Ihren Namen und Ihre Adresse an.",
-    "opposite": null,
+    "opposite": "verheimlichen",
     "article": null,
-    "level": "B2",
+    "level": "B1.1",
     "plural": null,
     "noun_form": "Angabe",
     "verb_form": "angeben"
@@ -894,7 +894,7 @@
     "example_sentence": "Die Massage war sehr angenehm.",
     "opposite": "unangenehm",
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -904,9 +904,9 @@
     "explanation_de": "ein starkes unangenehmes Gefühl, wenn man sich bedroht oder unsicher fühlt",
     "translation_en": "fear",
     "example_sentence": "Sie hat Angst vor der Dunkelheit.",
-    "opposite": null,
+    "opposite": "Mut",
     "article": "die",
-    "level": "B2",
+    "level": "A2.2",
     "plural": "Ängste",
     "noun_form": null,
     "verb_form": null
@@ -928,9 +928,9 @@
     "explanation_de": "Kleidung am Körper tragen",
     "translation_en": "to have on",
     "example_sentence": "Er hat heute ein rotes T-Shirt an.",
-    "opposite": null,
+    "opposite": "ausziehen",
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": null,
     "verb_form": "anhaben"
@@ -954,7 +954,7 @@
     "example_sentence": "Der Zug kommt pünktlich um 10 Uhr an.",
     "opposite": "abfahren",
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": "Ankunft",
     "verb_form": "ankommen"
@@ -976,9 +976,9 @@
     "explanation_de": "öffentlich oder offiziell mitteilen, dass etwas geschehen wird",
     "translation_en": "to announce",
     "example_sentence": "Sie hat ihren Besuch für nächste Woche angekündigt.",
-    "opposite": null,
+    "opposite": "verschweigen",
     "article": null,
-    "level": "B2",
+    "level": "B1.1",
     "plural": null,
     "noun_form": "Ankündigung",
     "verb_form": "ankündigen"
@@ -1000,9 +1000,9 @@
     "explanation_de": "1. bekanntgeben, dass man teilnehmen oder mitmachen will 2. sich registrieren",
     "translation_en": "to announce, make an appointment",
     "example_sentence": "Sie müssen sich vorher telefonisch im Rathaus anmelden.",
-    "opposite": null,
+    "opposite": "abmelden",
     "article": null,
-    "level": "B2",
+    "level": "A2.1",
     "plural": null,
     "noun_form": "Anmeldung",
     "verb_form": "anmelden"
@@ -1014,7 +1014,7 @@
     "example_sentence": "Die Anmeldung für den Kurs endet morgen.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "A2.1",
     "plural": "Anmeldungen",
     "noun_form": null,
     "verb_form": "anmelden"
@@ -1026,9 +1026,9 @@
     "example_sentence": "Ich nehme dein Angebot gern an.",
     "opposite": "ablehnen",
     "article": null,
-    "level": "B2",
+    "level": "B1.1",
     "plural": null,
-    "noun_form": null,
+    "noun_form": "Annahme",
     "verb_form": "annehmen"
   },
   {
@@ -1038,7 +1038,7 @@
     "example_sentence": "Die korrekte Anrede in Briefen ist wichtig.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "A2.2",
     "plural": "Anreden",
     "noun_form": null,
     "verb_form": null
@@ -1050,7 +1050,7 @@
     "example_sentence": "Ich werde dich morgen noch einmal anrufen.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A1.2",
     "plural": null,
     "noun_form": "Anruf",
     "verb_form": "anrufen"
@@ -1062,7 +1062,7 @@
     "example_sentence": "Ich habe gestern einen Anruf von meiner Mutter bekommen.",
     "opposite": null,
     "article": "der",
-    "level": "B2",
+    "level": "A1.2",
     "plural": "Anrufe",
     "noun_form": null,
     "verb_form": "anrufen"
@@ -1146,9 +1146,9 @@
     "example_sentence": "Wir sehen uns heute Abend einen Film an.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
-    "noun_form": null,
+    "noun_form": "Ansehen",
     "verb_form": "ansehen"
   },
   {
@@ -1158,9 +1158,9 @@
     "example_sentence": "Sie hat ihn auf der Party einfach angesprochen.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
-    "noun_form": null,
+    "noun_form": "Ansprache",
     "verb_form": "ansprechen"
   },
   {
@@ -1168,9 +1168,9 @@
     "explanation_de": "ein Recht oder eine Forderung auf etwas",
     "translation_en": "claim",
     "example_sentence": "Er erhebt Anspruch auf das Erbe seines Onkels.",
-    "opposite": null,
+    "opposite": "Verzicht",
     "article": "der",
-    "level": "B2",
+    "level": "B2.2",
     "plural": "Ansprüche",
     "noun_form": null,
     "verb_form": null
@@ -1242,7 +1242,7 @@
     "example_sentence": "Bitte antworte, wenn ich dich etwas frage.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A1.2",
     "plural": null,
     "noun_form": "Antwort",
     "verb_form": "antworten"
@@ -1254,7 +1254,7 @@
     "example_sentence": "Seine Antwort war kurz und knapp.",
     "opposite": "Frage",
     "article": "die",
-    "level": "B2",
+    "level": "A1.2",
     "plural": "Antworten",
     "noun_form": null,
     "verb_form": "antworten"
@@ -1278,7 +1278,7 @@
     "example_sentence": "Er hat den Diebstahl bei der Polizei angezeigt.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "B1.1",
     "plural": null,
     "noun_form": "Anzeige",
     "verb_form": "anzeigen"
@@ -1290,7 +1290,7 @@
     "example_sentence": "Ich habe eine Anzeige in der Zeitung aufgegeben, um mein Auto zu verkaufen.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "B1.1",
     "plural": "Anzeigen",
     "noun_form": null,
     "verb_form": "anzeigen"
@@ -1302,7 +1302,7 @@
     "example_sentence": "Warte, ich muss mich noch schnell anziehen.",
     "opposite": "ausziehen",
     "article": null,
-    "level": "B2",
+    "level": "A2.1",
     "plural": null,
     "noun_form": "Anziehen",
     "verb_form": "anziehen"
@@ -1314,7 +1314,7 @@
     "example_sentence": "Er trägt einen eleganten Anzug zur Hochzeit.",
     "opposite": null,
     "article": "der",
-    "level": "B2",
+    "level": "A2.1",
     "plural": "Anzüge",
     "noun_form": null,
     "verb_form": null
@@ -1396,9 +1396,9 @@
     "explanation_de": "einer Tätigkeit nachgehen (meist beruflich); tätig sein",
     "translation_en": "to work",
     "example_sentence": "Sie arbeitet als Ingenieurin in einem großen Unternehmen.",
-    "opposite": "faulenzen",
+    "opposite": "pausieren",
     "article": null,
-    "level": "B2",
+    "level": "A1.2",
     "plural": null,
     "noun_form": "Arbeit",
     "verb_form": "arbeiten"
@@ -1420,9 +1420,9 @@
     "explanation_de": "eine geistige oder körperliche Tätigkeit; auch: der Arbeitsplatz",
     "translation_en": "work",
     "example_sentence": "Nach der Arbeit fährt sie direkt nach Hause.",
-    "opposite": null,
+    "opposite": "Freizeit",
     "article": "die",
-    "level": "B2",
+    "level": "A1.2",
     "plural": "Arbeiten",
     "noun_form": null,
     "verb_form": "arbeiten"
@@ -1432,9 +1432,9 @@
     "explanation_de": "eine Person, die vor allem körperliche Tätigkeiten in einem Betrieb ausführt",
     "translation_en": "worker",
     "example_sentence": "Die Arbeiter in der Fabrik streiken für bessere Löhne.",
-    "opposite": null,
+    "opposite": "Arbeitgeber",
     "article": "der",
-    "level": "B2",
+    "level": "A1.2",
     "plural": "Arbeiter",
     "noun_form": null,
     "verb_form": "arbeiten"
@@ -1458,7 +1458,7 @@
     "example_sentence": "Nach der Firmenpleite ist er seit drei Monaten arbeitslos.",
     "opposite": "beschäftigt",
     "article": null,
-    "level": "B2",
+    "level": "B1.1",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -1482,7 +1482,7 @@
     "example_sentence": "Ihr Arbeitsplatz befindet sich im Zentrum der Stadt.",
     "opposite": null,
     "article": "der",
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -1506,7 +1506,7 @@
     "example_sentence": "Es hat ihn sehr geärgert, dass er warten musste.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
     "noun_form": "Ärger",
     "verb_form": "ärgern"
@@ -1518,7 +1518,7 @@
     "example_sentence": "Der Ärger über die verspätete Bahn war ihm anzusehen.",
     "opposite": "Freude",
     "article": "der",
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
     "noun_form": null,
     "verb_form": "ärgern"
@@ -1542,7 +1542,7 @@
     "example_sentence": "Die Familie war früher sehr arm, hat aber mittlerweile genug Geld.",
     "opposite": "reich",
     "article": null,
-    "level": "B2",
+    "level": "A2.1",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -1566,7 +1566,7 @@
     "example_sentence": "Diese Art von Musik gefällt mir besonders gut.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "A2.2",
     "plural": "Arten",
     "noun_form": null,
     "verb_form": null
@@ -1938,7 +1938,7 @@
     "example_sentence": "Nach ihrer Ausbildung zur Krankenschwester arbeitet sie im Krankenhaus.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "A2.2",
     "plural": "Ausbildungen",
     "noun_form": null,
     "verb_form": "ausbilden"
@@ -1962,7 +1962,7 @@
     "example_sentence": "Machst du bitte das Licht aus, wenn du gehst?",
     "opposite": "anmachen",
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": null,
     "verb_form": "ausmachen"
@@ -1972,9 +1972,9 @@
     "explanation_de": "etwas, das von einer Regel abweicht; ein Sonderfall",
     "translation_en": "exception",
     "example_sentence": "In diesem Fall machen wir eine Ausnahme.",
-    "opposite": null,
+    "opposite": "Regel",
     "article": "die",
-    "level": "B2",
+    "level": "B1.1",
     "plural": "Ausnahmen",
     "noun_form": null,
     "verb_form": null
@@ -1984,9 +1984,9 @@
     "explanation_de": "genügen; in ausreichender Menge vorhanden sein",
     "translation_en": "to be sufficient, last",
     "example_sentence": "Das Geld muss bis Ende des Monats ausreichen.",
-    "opposite": "nicht genügen",
+    "opposite": "nicht ausreichen",
     "article": null,
-    "level": "B2",
+    "level": "B1.1",
     "plural": null,
     "noun_form": "Ausreichung",
     "verb_form": "ausreichen"
@@ -1998,7 +1998,7 @@
     "example_sentence": "Es ist ausreichend Essen für alle da.",
     "opposite": "unzureichend",
     "article": null,
-    "level": "B2",
+    "level": "B1.1",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -2058,7 +2058,7 @@
     "example_sentence": "Sie sieht heute sehr glücklich aus.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A2.1",
     "plural": null,
     "noun_form": "Aussehen",
     "verb_form": "aussehen"
@@ -2130,7 +2130,7 @@
     "example_sentence": "Vom Berg hat man eine wunderschöne Aussicht auf das Tal.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "B1.2",
     "plural": "Aussichten",
     "noun_form": null,
     "verb_form": null
@@ -2140,9 +2140,9 @@
     "explanation_de": "ein Wort oder einen Laut artikulieren; seine Meinung deutlich sagen",
     "translation_en": "to pronounce",
     "example_sentence": "Sie kann das deutsche 'R' nicht richtig aussprechen.",
-    "opposite": null,
+    "opposite": "verschweigen",
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": "Aussprache",
     "verb_form": "aussprechen"
@@ -2154,7 +2154,7 @@
     "example_sentence": "Ihre Aussprache des Französischen ist nahezu perfekt.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "A2.2",
     "plural": "Aussprachen",
     "noun_form": null,
     "verb_form": "aussprechen"
@@ -2164,9 +2164,9 @@
     "explanation_de": "1. etwas öffentlich zeigen (z.B. Kunstwerke) 2. ein Dokument ausfertigen",
     "translation_en": "to exhibit, show",
     "example_sentence": "Das Museum stellt Gemälde von Picasso aus.",
-    "opposite": null,
+    "opposite": "einziehen",
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": "Ausstellung",
     "verb_form": "ausstellen"
@@ -2178,7 +2178,7 @@
     "example_sentence": "Die Ausstellung moderner Kunst zieht viele Besucher an.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "A2.2",
     "plural": "Ausstellungen",
     "noun_form": null,
     "verb_form": "ausstellen"
@@ -2202,7 +2202,7 @@
     "example_sentence": "Sie hat einen Gewinner aus vielen Bewerbern ausgewählt.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": "Auswahl",
     "verb_form": "auswählen"
@@ -2212,9 +2212,9 @@
     "explanation_de": "die Menge der Dinge, aus denen man wählen kann; auch: das Auswählen selbst",
     "translation_en": "choice",
     "example_sentence": "Die Auswahl im neuen Supermarkt ist riesig.",
-    "opposite": null,
+    "opposite": "Einschränkung",
     "article": "die",
-    "level": "B2",
+    "level": "A2.2",
     "plural": "Auswahlen",
     "noun_form": null,
     "verb_form": "auswählen"
@@ -2250,7 +2250,7 @@
     "example_sentence": "Das Auto steht in der Garage.",
     "opposite": null,
     "article": "das",
-    "level": "B2",
+    "level": "A1.2",
     "plural": "Autos",
     "noun_form": null,
     "verb_form": null
@@ -2262,7 +2262,7 @@
     "example_sentence": "Auf der Autobahn darf man schneller fahren als in der Stadt.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "A2.1",
     "plural": "Autobahnen",
     "noun_form": null,
     "verb_form": null
@@ -2274,7 +2274,7 @@
     "example_sentence": "Zigaretten kann man nur noch am Automaten kaufen.",
     "opposite": null,
     "article": "der",
-    "level": "B2",
+    "level": "A2.1",
     "plural": "Automaten",
     "noun_form": null,
     "verb_form": null
@@ -2286,7 +2286,7 @@
     "example_sentence": "Die Tür schließt automatisch, wenn man rausgeht.",
     "opposite": "manuell",
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -2310,7 +2310,7 @@
     "example_sentence": "Meine Mutter backt jedes Wochenende einen Kuchen.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A2.1",
     "plural": null,
     "noun_form": "Gebäck",
     "verb_form": "backen"
@@ -2370,7 +2370,7 @@
     "example_sentence": "Ich fahre jeden Tag mit der Bahn zur Arbeit.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "A1.2",
     "plural": "Bahnen",
     "noun_form": null,
     "verb_form": null
@@ -2466,7 +2466,7 @@
     "example_sentence": "Die Kinder spielen im Garten mit dem Ball.",
     "opposite": null,
     "article": "der",
-    "level": "B2",
+    "level": "A1.2",
     "plural": "Bälle",
     "noun_form": null,
     "verb_form": null
@@ -2550,7 +2550,7 @@
     "example_sentence": "Er trägt einen langen, dichten Bart.",
     "opposite": null,
     "article": "der",
-    "level": "B2",
+    "level": "A2.2",
     "plural": "Bärte",
     "noun_form": null,
     "verb_form": null
@@ -2574,7 +2574,7 @@
     "example_sentence": "Die Kinder basteln Laternen für den Umzug.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": "Bastelei",
     "verb_form": "basteln"
@@ -2646,7 +2646,7 @@
     "example_sentence": "Im Garten steht ein großer Apfelbaum.",
     "opposite": null,
     "article": "der",
-    "level": "B2",
+    "level": "A1.2",
     "plural": "Bäume",
     "noun_form": null,
     "verb_form": null
@@ -2670,7 +2670,7 @@
     "example_sentence": "Er hat ein Visum für die USA beantragt.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
     "noun_form": "Antrag",
     "verb_form": "beantragen"
@@ -2682,9 +2682,9 @@
     "example_sentence": "Kannst du bitte meine E-Mail beantworten?",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A1.2",
     "plural": null,
-    "noun_form": null,
+    "noun_form": "Antwort",
     "verb_form": "beantworten"
   },
   {
@@ -2718,7 +2718,7 @@
     "example_sentence": "Was bedeutet dieses Wort auf Deutsch?",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A1.2",
     "plural": null,
     "noun_form": "Bedeutung",
     "verb_form": "bedeuten"
@@ -2730,7 +2730,7 @@
     "example_sentence": "Das Symbol hat eine besondere Bedeutung in dieser Kultur.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "A1.2",
     "plural": "Bedeutungen",
     "noun_form": null,
     "verb_form": "bedeuten"
@@ -2742,7 +2742,7 @@
     "example_sentence": "Der Kellner bedient die Gäste am Tisch.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": "Bedienung",
     "verb_form": "bedienen"
@@ -2764,9 +2764,9 @@
     "explanation_de": "mit jemandem (zur Gesellschaft oder zum Schutz) mitgehen oder mitfahren",
     "translation_en": "to accompany",
     "example_sentence": "Darf ich dich nach Hause begleiten?",
-    "opposite": null,
+    "opposite": "zurücklassen",
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": "Begleitung",
     "verb_form": "begleiten"
@@ -2788,9 +2788,9 @@
     "explanation_de": "einen Grund oder eine Erklärung für etwas geben; etwas rechtfertigen",
     "translation_en": "to justify",
     "example_sentence": "Kannst du deine Entscheidung begründen?",
-    "opposite": null,
+    "opposite": "verwerfen",
     "article": null,
-    "level": "B2",
+    "level": "B1.1",
     "plural": null,
     "noun_form": "Begründung",
     "verb_form": "begründen"
@@ -2802,7 +2802,7 @@
     "example_sentence": "Seine Begründung für das Zuspätkommen war überzeugend.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "B1.1",
     "plural": "Begründungen",
     "noun_form": null,
     "verb_form": "begründen"
@@ -2812,9 +2812,9 @@
     "explanation_de": "jemanden mit Worten oder Gesten willkommen heißen",
     "translation_en": "to greet",
     "example_sentence": "Sie hat alle Gäste herzlich begrüßt.",
-    "opposite": null,
+    "opposite": "verabschieden",
     "article": null,
-    "level": "B2",
+    "level": "A2.1",
     "plural": null,
     "noun_form": "Begrüßung",
     "verb_form": "begrüßen"
@@ -2836,9 +2836,9 @@
     "explanation_de": "mit den Zähnen zupacken; einen Biss machen",
     "translation_en": "to bite",
     "example_sentence": "Pass auf, der Hund könnte beißen!",
-    "opposite": null,
+    "opposite": "lecken",
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
     "noun_form": "Biss",
     "verb_form": "beißen"
@@ -2850,7 +2850,7 @@
     "example_sentence": "Dieses Lied ist sehr bekannt.",
     "opposite": "unbekannt",
     "article": null,
-    "level": "B2",
+    "level": "A2.1",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -2896,9 +2896,9 @@
     "explanation_de": "durch Worte oder Taten jemanden verletzen oder kränken",
     "translation_en": "to insult",
     "example_sentence": "Er hat sie mit seiner Bemerkung tief beleidigt.",
-    "opposite": null,
+    "opposite": "schmeicheln",
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
     "noun_form": "Beleidigung",
     "verb_form": "beleidigen"
@@ -2922,7 +2922,7 @@
     "example_sentence": "Seine Bemerkung war unpassend und hat einige Gäste verärgert.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "B1.1",
     "plural": "Bemerkungen",
     "noun_form": null,
     "verb_form": "bemerken"
@@ -2958,7 +2958,7 @@
     "example_sentence": "Wir haben gestern das Schloss besichtigt.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": "Besichtigung",
     "verb_form": "besichtigen"
@@ -2968,9 +2968,9 @@
     "explanation_de": "etwas haben; Eigentümer von etwas sein",
     "translation_en": "to own",
     "example_sentence": "Sie besitzt ein eigenes Haus am See.",
-    "opposite": null,
+    "opposite": "verlieren",
     "article": null,
-    "level": "B2",
+    "level": "B1.2",
     "plural": null,
     "noun_form": "Besitz",
     "verb_form": "besitzen"
@@ -2980,9 +2980,9 @@
     "explanation_de": "insbesondere; in besonderem Maße; sehr",
     "translation_en": "particularly",
     "example_sentence": "Besonders im Sommer ist es am See schön.",
-    "opposite": "kaum",
+    "opposite": "gewöhnlich",
     "article": null,
-    "level": "B2",
+    "level": "B1.1",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -2994,7 +2994,7 @@
     "example_sentence": "Hast du die Rechnung schon bezahlt?",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "A1.2",
     "plural": null,
     "noun_form": "Bezahlung",
     "verb_form": "bezahlen"
@@ -3004,9 +3004,9 @@
     "explanation_de": "Verbindung zwischen zwei oder mehreren Personen oder Dingen; Verhältnis",
     "translation_en": "connection, relationship",
     "example_sentence": "Er hat eine sehr gute Beziehung zu seinen Eltern.",
-    "opposite": null,
+    "opposite": "Trennung",
     "article": "die",
-    "level": "B2",
+    "level": "A2.2",
     "plural": "Beziehungen",
     "noun_form": null,
     "verb_form": "beziehen"
@@ -3018,7 +3018,7 @@
     "example_sentence": "Ich muss das Buch in die Bibliothek zurückbringen.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "A1.2",
     "plural": "Bibliotheken",
     "noun_form": null,
     "verb_form": null
@@ -3042,7 +3042,7 @@
     "example_sentence": "Es hat heute Nacht stark geblitzt und gedonnert.",
     "opposite": null,
     "article": null,
-    "level": "B2",
+    "level": "B1.1",
     "plural": null,
     "noun_form": "Blitz",
     "verb_form": "blitzen"
@@ -3066,7 +3066,7 @@
     "example_sentence": "Das war bloß ein Scherz, nimm es nicht ernst.",
     "opposite": "mehr als",
     "article": null,
-    "level": "B2",
+    "level": "B2.1",
     "plural": null,
     "noun_form": null,
     "verb_form": null
@@ -3078,7 +3078,7 @@
     "example_sentence": "Im Frühling blühen die Kirschbäume wunderschön.",
     "opposite": "verwelken",
     "article": null,
-    "level": "B2",
+    "level": "A2.2",
     "plural": null,
     "noun_form": "Blüte",
     "verb_form": "blühen"
@@ -3088,9 +3088,9 @@
     "explanation_de": "Staatsangehöriger; Einwohner eines Staates oder einer Stadt",
     "translation_en": "citizen",
     "example_sentence": "Als Bürger dieses Landes hat man Rechte und Pflichten.",
-    "opposite": null,
+    "opposite": "Ausländer",
     "article": "der",
-    "level": "B2",
+    "level": "B1.2",
     "plural": "Bürger",
     "noun_form": null,
     "verb_form": null
@@ -3102,7 +3102,7 @@
     "example_sentence": "Ich bin heute bis 18 Uhr im Büro zu erreichen.",
     "opposite": null,
     "article": "das",
-    "level": "B2",
+    "level": "A1.2",
     "plural": "Büros",
     "noun_form": null,
     "verb_form": null
@@ -3114,10 +3114,10 @@
     "example_sentence": "Mit einer Bürste kann man die Schuhe sauber machen.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "A2.2",
     "plural": "Bürsten",
     "noun_form": null,
-    "verb_form": null
+    "verb_form": "bürsten"
   },
   {
     "word": "bus",
@@ -3126,7 +3126,7 @@
     "example_sentence": "Der Bus fährt alle 10 Minuten zum Bahnhof.",
     "opposite": null,
     "article": "der",
-    "level": "B2",
+    "level": "A1.2",
     "plural": "Busse",
     "noun_form": null,
     "verb_form": null
@@ -3138,7 +3138,7 @@
     "example_sentence": "Nach der Operation bekam sie ein starkes Schmerzmittel.",
     "opposite": null,
     "article": "das",
-    "level": "B2",
+    "level": "B1.2",
     "plural": "Schmerzmittel",
     "noun_form": null,
     "verb_form": null
@@ -3150,7 +3150,7 @@
     "example_sentence": "Die Datei wurde auf dem Desktop gespeichert.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
+    "level": "A2.1",
     "plural": "Dateien",
     "noun_form": null,
     "verb_form": null
@@ -3162,7 +3162,7 @@
     "example_sentence": "Das heutige Datum ist der 24. Dezember 2025.",
     "opposite": null,
     "article": "das",
-    "level": "B2",
+    "level": "A1.2",
     "plural": "Daten",
     "noun_form": null,
     "verb_form": null
@@ -3174,8 +3174,8 @@
     "example_sentence": "Die Daten werden täglich auf einem externen Server gesichert.",
     "opposite": null,
     "article": "die",
-    "level": "B2",
-    "plural": null,
+    "level": "A2.2",
+    "plural": "Daten",
     "noun_form": null,
     "verb_form": null
   }
