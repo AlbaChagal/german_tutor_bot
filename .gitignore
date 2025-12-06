@@ -1,0 +1,19 @@
+# Ignore environment files
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
