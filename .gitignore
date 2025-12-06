@@ -7,7 +7,7 @@ __pycache__/
 *.pyo
 *.pyd
 venv/
-env/
+*.env
 .venv/
 
 # IDEs
@@ -17,3 +17,4 @@ env/
 # macOS
 .DS_Store
 
+/database/
