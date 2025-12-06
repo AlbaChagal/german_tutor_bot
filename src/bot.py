@@ -20,7 +20,7 @@ logging.basicConfig(
 
 # Load the JSON database
 def load_words():
-    with open('db.json', 'r', encoding='utf-8') as f:
+    with open('database/db.json', 'r', encoding='utf-8') as f:
         return json.load(f)
 
 
@@ -85,6 +85,9 @@ async def generate_exercise(update: Update, context: ContextTypes.DEFAULT_TYPE, 
         sentence = word_data['example_sentence']
         target_word = word_data['word']
 
+        if target_word not in sentence:
+            exercise_type = random.randint(4, 5)
+
         # Simple string replacement (case insensitive for replacement, but display original case)
         pattern = re.compile(re.escape(target_word), re.IGNORECASE)
         censored_sentence = pattern.sub("\_\_\_\_\_\_\_", sentence)
@@ -92,12 +95,12 @@ async def generate_exercise(update: Update, context: ContextTypes.DEFAULT_TYPE, 
         question = f"Fill in the missing word:\n\n{censored_sentence}"
         correct_answer = target_word
 
-    elif exercise_type == 4:
+    if exercise_type == 4:
         # Dictionary Explanation -> Word
         question = f"What word matches this definition?\n\n*{word_data['explanation_de']}*"
         correct_answer = word_data['word']
 
-    elif exercise_type == 5:
+    if exercise_type == 5:
         # Opposite -> Word
         question = f"What is the opposite of: *{word_data['opposite']}*?"
         correct_answer = word_data['word']
