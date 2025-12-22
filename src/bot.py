@@ -79,8 +79,14 @@ async def generate_exercise(update: Update, context: ContextTypes.DEFAULT_TYPE, 
 
     # If no specific type is requested, pick a random one
     if exercise_type is None:
-        # TODO: add type 5 when implemented
-        exercise_type = random.randint(1, 4)
+        exercise_types = [1, 2, 3, 4, 5]
+        if word_data.get('noun_form'):
+            exercise_types.append(6)  # Noun form
+        if word_data.get('verb_form'):
+            exercise_types.append(7)  # Verb form
+        if not word_data.get('plural_form'):
+            exercise_types.append(8)  # Plural form
+        exercise_type = random.randint(1, max_exercise_type)
 
     question = ""
     correct_answer = ""
@@ -122,10 +128,21 @@ async def generate_exercise(update: Update, context: ContextTypes.DEFAULT_TYPE, 
         correct_answer = word_data['word']
 
     if exercise_type == 5:
-        """not implemented yet"""
         # Opposite -> Word
         question = f"What is the opposite of: \n\n*{word_data['opposite']}*?"
         correct_answer = word_data['word']
+
+    if exercise_type == 6:
+        # Noun or Verb Form -> Word
+        form_type = "Noun" if word_data.get('noun_form') else "Verb"
+        form_value = word_data.get('noun_form') or word_data.get('verb_form')
+        question = f"What is the {form_type} form of: \n\n*{form_value}*?"
+        correct_answer = word_data['word']
+
+    if exercise_type == 8:
+        # Word -> Plural Form
+        question = f"What is the plural form of the noun: \n\n*{word_data['word']}*?"
+        correct_answer = word_data['plural_form']
 
     question += "\n\nYou can get a /hint if needed"
 
