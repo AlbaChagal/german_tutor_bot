@@ -86,7 +86,7 @@ async def generate_exercise(update: Update, context: ContextTypes.DEFAULT_TYPE, 
             exercise_types.append(7)  # Verb form
         if not word_data.get('plural_form'):
             exercise_types.append(8)  # Plural form
-        exercise_type = random.randint(1, max_exercise_type)
+        exercise_type = random.choice(exercise_types)
 
     question = ""
     correct_answer = ""
