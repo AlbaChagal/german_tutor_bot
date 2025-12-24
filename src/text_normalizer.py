@@ -1,4 +1,5 @@
 import re
+from typing import Dict, Any
 
 
 class TextNormalizer(object):
@@ -35,3 +36,46 @@ class TextNormalizer(object):
         art = m.group(1).strip().lower()
         noun = m.group(2).strip().lower()
         return f"<{art}>{noun}"
+
+    @staticmethod
+    def normalize_to_bot_schema(entry: Dict[str, Any]) -> Dict[str, Any]:
+        """
+        Remove internal helper fields (pos) and coerce fields to match what bot.py expects.
+        """
+        pos = entry.get("pos")
+        out = {
+            "word": entry["word"],
+            "explanation_de": entry["explanation_de"],
+            "translation_en": entry["translation_en"],
+            "example_sentence": entry["example_sentence"],
+            "opposite": entry["opposite"],
+            "article": entry["article"],
+            "level": entry["level"],
+            "plural_form": entry["plural_form"],
+            "noun_form": entry["noun_form"],
+            "verb_form": entry["verb_form"],
+        }
+
+        # Enforce schema rules defensively (in case a model regression happens)
+        if pos != "noun":
+            out["article"] = None
+            out["plural_form"] = None
+
+        if pos == "verb":
+            out["verb_form"] = None
+            # noun_form must be "<article>Nominalisierung"
+            if isinstance(out["noun_form"], str) and not out["noun_form"].startswith("<"):
+                # best-effort: wrap unknown article as die
+                out["noun_form"] = f"<die>{out['noun_form']}"
+        elif pos == "noun":
+            out["noun_form"] = None
+        else:
+            out["noun_form"] = None
+            out["verb_form"] = None
+
+        # Ensure example sentence contains the exact lemma substring
+        if out["word"] not in out["example_sentence"]:
+            # best-effort: append a second sentence that includes it exactly
+            out["example_sentence"] = out["example_sentence"].rstrip() + f" Heute will ich {out['word']}."
+
+        return out
